@@ -1,1 +1,1 @@
-#Diabetes prediction using Naive Bayes from scratch
+#  Naive Bayes implementation on diabetes dataset
